@@ -1,4 +1,5 @@
 ## Whale hello there! 🐳 
+
 ![React](https://img.shields.io/badge/React-125+_Hours-9cf)
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
 ![CSS](https://img.shields.io/badge/CSS-50+_Hours-blueviolet)
@@ -7,12 +8,23 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
+
+
+
+
 I am **Greta Schock** and I'm currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an strong interest in the human-element of web development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
+
+<table align="right">
+ <tr><td><a href="README.md"><a href="README.md">🇺🇸 English</a></td></tr>
+ <tr><td><a href="README_fr.md"><a href="">🇪🇸 Español</a></td></tr>
+ <tr><td><a href="README_pt.md"><a href="">🇧🇷 Português</a></td></tr>
+</table>
 
 - 🔭 I’m currently looking for work as a **Full-Stack Developer**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💬 Ask me about **Web Development** && **Coding Bootcamps**
-- 🌎 Former exchange student! 🇺🇸 --> 🇧🇷 2013/2014
+- 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
+
 
 ---
 ### Contact Me
