@@ -1,7 +1,7 @@
 ## Whale hello there! 🐳 
 ![React](https://img.shields.io/badge/React-125+_Hours-9cf)
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
-![CSS](https://img.shields.io/badge/Bootstrap/CSS-50+_Hours-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-50+_Hours-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-15+_Hours-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
