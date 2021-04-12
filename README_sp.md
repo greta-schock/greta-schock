@@ -11,9 +11,9 @@
 Soy Greta Schock y actualmente estoy trabajando en proyectos apasionantes al mismo tiempo que considero otras oportunidades de empleo. Soy un **Desarrollador Fullstack** con un gran interés en el elemento humano del desarrollo web. Entusiasta profesional de la ingeniería con una Licenciatura en Asuntos Internacionales - América Latina / Antropología y una certificación Hack Reactor Software Engineering Immersive.
 
 <table align="right">
- <tr><td><a href="README.md"><a href="README.md">🇺🇸 English</a></td></tr>
- <tr><td><a href="README_sp.md"><a href="">🇪🇸 Español</a></td></tr>
- <tr><td><a href="README_pt.md"><a href="">🇧🇷 Português</a></td></tr>
+ <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
+ <tr><td><a href="README_sp.md">🇪🇸 Español</a></td></tr>
+ <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
 </table>
 
 - 🔭 Actualmente estoy buscando trabajo como **Desarrollador Full-Stack**
