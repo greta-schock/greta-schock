@@ -20,7 +20,7 @@ I am **Greta Schock** and I'm currently working on passion projects while also c
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💬 Ask me about **Web Development** && **Coding Bootcamps**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
-- 😉  #unforGretable
+- 😉  #unfor<strong>Greta</strong>ble
 
 
 
