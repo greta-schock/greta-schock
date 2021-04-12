@@ -33,3 +33,4 @@ My name is **Greta Schock** and I'm currently working on passion projects while 
 
 ---
 ![Greta Schock's github stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&hide_border=true)
+
