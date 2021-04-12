@@ -10,13 +10,10 @@ I am **Greta Schock** currently working on passion projects such as **Bootket Li
 ---
 ### Languages
 ![React](https://img.shields.io/badge/React(JSX)-125+_Hours-9cf)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
-
 ![CSS](https://img.shields.io/badge/Bootstrap/CSS-50+_Hours-blueviolet)
-
 ![SQL](https://img.shields.io/badge/SQL_(MySQL/PostgreSQL)-15+_Hours-informational)
-
+![MongoDB](https://img.shields.io/badge/MongoDB_(Mongoose)-10+_Hours-informational)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Currently_Learning!-success)
