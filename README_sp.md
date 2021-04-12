@@ -8,7 +8,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
 
 ---
-Soy Greta Schock y actualmente estoy trabajando en proyectos apasionantes al mismo tiempo que considero otras oportunidades de empleo. Soy un **Desarrollador Fullstack** con un gran interés en el elemento humano del desarrollo web. Entusiasta profesional de la ingeniería con una Licenciatura en Asuntos Internacionales - América Latina / Antropología y una certificación Hack Reactor Software Engineering Immersive.
+Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tiempo que considero otras oportunidades de empleo. Soy un **Desarrollador Fullstack** con un gran interés en el elemento humano del desarrollo web. Entusiasta profesional de la ingeniería con una Licenciatura en Asuntos Internacionales - América Latina / Antropología y una certificación Hack Reactor Software Engineering Immersive.
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
