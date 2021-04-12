@@ -1,16 +1,4 @@
 ## Whale hello there! 🐳 
-
-I am **Greta Schock** currently working on passion projects such as **Bootket List** (a NPS hiking bucket list webite). I am a new **Fullstack Developer** with an interest in Front-End Development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
-
-- 🔭 I’m currently looking for work as a **Full-Stack Developer**
-- 🌱 I’m currently learning **Typescript**
-- 💬 Ask me about **Web Development** && **Coding Bootcamps**
-
----
-### Contact Me!
-[![Linkedin Badge](https://img.shields.io/badge/-GretaSchock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
-[![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
-
 ---
 ### Languages
 ![React](https://img.shields.io/badge/React-125+_Hours-9cf)
@@ -20,6 +8,18 @@ I am **Greta Schock** currently working on passion projects such as **Bootket Li
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+_Hours-success)
+
+---
+I am **Greta Schock** currently working on passion projects such as **Bootket List** (a NPS hiking bucket list webite). I am a new **Fullstack Developer** with an interest in Front-End Development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
+
+- 🔭 I’m currently looking for work as a **Full-Stack Developer**
+- 🌱 I’m currently learning **Typescript**
+- 💬 Ask me about **Web Development** && **Coding Bootcamps**
+
+---
+### Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-GretaSchock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
+[![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
 ![Greta Schock's github stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&hide_border=true)
