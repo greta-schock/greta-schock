@@ -8,7 +8,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
 
 ---
-Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes enquanto estou considerando outras oportunidades de emprego. Sou um **Fullstack Developer** com grande interesse no elemento humano do desenvolvimento web. Engenheiro entusiasta eu formou na falcudade de Relações Internacionais - América Latina / Antropologia e ganhei uma certificação Hack Reactor Imersiva em Engenharia de Software.
+Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes enquanto estou considerando outras oportunidades de emprego. Sou um **Fullstack Developer** com grande interesse no elemento humano do desenvolvimento web. Engenheiro entusiasta eu formei na falcudade de Relações Internacionais - América Latina / Antropologia e ganhei uma certificação Hack Reactor Imersiva em Engenharia de Software.
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
