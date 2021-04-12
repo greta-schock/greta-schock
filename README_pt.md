@@ -1,4 +1,4 @@
-## Oi agente! 🐳 
+## Bem-vindos!
 
 ![React](https://img.shields.io/badge/React-125+_Hours-9cf)
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
@@ -19,7 +19,7 @@ Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes 
 - 🔭 Agora, estou procurando trabalho de **Desenvolvedor Full-Stack**
 - 🌱 Agora, estou aprendendo **Typescript** e **Python**
 - 💬 Pergunte-me sobre **Desenvolvimento Web** && **Coding Bootcamps**
-- 🌎 Ex-aluno de intercâmbio 🇺🇸 → 🇧🇷 2013/2014
+- 🌎 Ex-intercambista de Rotary 🇺🇸 → 🇧🇷 2013/2014
 
 
 ---
