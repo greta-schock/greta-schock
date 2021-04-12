@@ -1,11 +1,11 @@
 ## Bem-vindos!
 
-![React](https://img.shields.io/badge/React-125+_Hours-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
-![CSS](https://img.shields.io/badge/CSS-50+_Hours-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-brightgreen)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
+![React](https://img.shields.io/badge/React-125+_Horas-9cf)
+![JavaScript](https://img.shields.io/badge/JavaScript-500+_Horas-yellow)
+![CSS](https://img.shields.io/badge/CSS-50+_Horas-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-20+_Horas-informational)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-brightgreen)
+![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
 
 ---
 Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes enquanto estou considerando outras oportunidades de emprego. Sou um **Fullstack Developer** com grande interesse no elemento humano do desenvolvimento web. Engenheiro entusiasta eu formou na falcudade de Relações Internacionais - América Latina / Antropologia e ganhei uma certificação Hack Reactor Imersiva em Engenharia de Software.
