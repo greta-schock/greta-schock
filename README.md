@@ -22,6 +22,9 @@ I am **Greta Schock** and I'm currently working on passion projects while also c
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 
 
+
+
+
 ---
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-GretaSchock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
