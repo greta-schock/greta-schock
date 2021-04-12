@@ -21,4 +21,5 @@ I am **Greta Schock** currently working on passion projects such as **Bootket Li
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+_Hours-success)
 
-
+---
+![Greta Schock's github stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&hide_border=true)
