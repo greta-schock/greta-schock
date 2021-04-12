@@ -16,8 +16,8 @@ Soy Greta Schock y actualmente estoy trabajando en proyectos apasionantes al mis
  <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
 </table>
 
-- 🔭 Actualmente estoy buscando trabajo como **Desarrollador Full-Stack**
-- 🌱 Actualmente estoy aprendiendo **TypeScript** y **Python**
+- 🔭 Ahora estoy buscando trabajo como **Desarrollador Full-Stack**
+- 🌱 Ahora estoy aprendiendo **TypeScript** y **Python**
 - 💬 Pregúntame sobre **Desarrollo web** && **Bootcamps de codificación**
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
