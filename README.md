@@ -5,7 +5,6 @@
 ![SQL](https://img.shields.io/badge/SQL-15+_Hours-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
-![TypeScript](https://img.shields.io/badge/TypeScript-5+_Hours-success)
 
 ---
 I am **Greta Schock** and I am currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an interest in Front-End Development and the human-element of the backend. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
