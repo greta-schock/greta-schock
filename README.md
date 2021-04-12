@@ -7,7 +7,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
-I am **Greta Schock** and I am currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an strong interest in the human-element of frontend development (UX/UI) and the backend (what story does data reveal?). Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
+I am **Greta Schock** and I am currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an strong interest in the human-element of web development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
 
 - 🔭 I’m currently looking for work as a **Full-Stack Developer**
 - 🌱 I’m currently learning **Typescript** and **Python**
