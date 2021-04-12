@@ -1,6 +1,6 @@
 # GretaSchock_Profile_Info
 
-![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
+![Banner Image](Put in BEAUTY.jpeg)
 
 ## Hi there 👋
 
