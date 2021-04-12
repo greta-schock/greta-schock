@@ -12,6 +12,7 @@ I am **Greta Schock** and I am currently working on passion projects while also 
 - 🔭 I’m currently looking for work as a **Full-Stack Developer**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💬 Ask me about **Web Development** && **Coding Bootcamps**
+- 🌎 Former exchange student! USA -> Brasil 2013-2014
 
 ---
 ### Contact Me
