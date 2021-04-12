@@ -12,7 +12,7 @@ I am **Greta Schock** and I'm currently working on passion projects while also c
 
 <table align="right">
  <tr><td><a href="README.md"><a href="README.md">🇺🇸 English</a></td></tr>
- <tr><td><a href="README_sp.md"><a href="">🇪🇸 Español</a></td></tr>
+ <tr><td><a href="README_sp.md">🇪🇸 Español</a></td></tr>
  <tr><td><a href="README_pt.md"><a href="">🇧🇷 Português</a></td></tr>
 </table>
 
