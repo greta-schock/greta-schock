@@ -11,9 +11,9 @@
 My name is **Greta Schock** and I'm currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an strong interest in the human-element of web development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
 
 <table align="right">
- <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
- <tr><td><a href="README_sp.md">🇪🇸 Español</a></td></tr>
- <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
+ <tr><td><a href="README.md" target="_blank">🇺🇸 English</a></td></tr>
+ <tr><td><a href="README_sp.md" target="_blank">🇪🇸 Español</a></td></tr>
+ <tr><td><a href="README_pt.md"target="_blank">🇧🇷 Português</a></td></tr>
 </table>
 
 - 🔭 I’m currently looking for work as a **Full-Stack Developer**
