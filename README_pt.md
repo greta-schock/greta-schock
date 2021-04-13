@@ -1,4 +1,4 @@
-## Bem-vindos! 🙃
+## Olá Mundo! 🙃
 
 ![React](https://img.shields.io/badge/React-125+_Horas-9cf)
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Horas-yellow)
@@ -28,4 +28,4 @@ Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes 
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
-![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=radical&count_private=true)
+![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=vue&count_private=true)
