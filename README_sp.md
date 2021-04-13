@@ -18,7 +18,7 @@ Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tie
 
 - 🔭 Ahora estoy buscando trabajo como **Desarrollador de Web**
 - 🌱 Ahora estoy aprendiendo **TypeScript** y **Python**
-- 💬 Pregúntame sobre **Desarrollo web** && **Bootcamps de code**
+- 💬 Pregúntame sobre **desarrollo web**, **bootcamps de code** y **esquí**
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
 
