@@ -22,15 +22,11 @@ My name is **Greta Schock** and I'm currently working on passion projects while 
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 - 😉  #unfor<strong>Greta</strong>ble
 
-
-
-
-
 ---
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-GretaSchock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
-![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=radical&count_private=true)
+![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=vue&count_private=true)
 
