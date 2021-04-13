@@ -1,4 +1,4 @@
-## ¡Bienvenidos! 🙃
+## ¡Hola Mundo! 🙃
 
 ![React](https://img.shields.io/badge/React-125+_Horas-9cf)
 ![JavaScript](https://img.shields.io/badge/JavaScript-500+_Horas-yellow)
