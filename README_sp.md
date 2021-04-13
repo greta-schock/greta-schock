@@ -28,4 +28,4 @@ Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tie
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
-![Greta Schock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=radical&count_private=true)
+![Greta Schock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=vue&count_private=true)
