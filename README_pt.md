@@ -28,4 +28,4 @@ Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes 
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
-![Greta Schock's github stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&hide_border=true)
+![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=radical&count_private=true)
