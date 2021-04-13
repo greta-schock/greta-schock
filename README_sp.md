@@ -24,7 +24,7 @@ Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tie
 
 ---
 ### Mensajes
-[![Linkedin Badge](https://img.shields.io/badge/-GretaSchock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
+[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
