@@ -16,7 +16,7 @@ My name is **Greta Schock** and I'm currently working on passion projects while 
  <tr><td><a href="README_pt.md"target="_blank">🇧🇷 Português</a></td></tr>
 </table>
 
-- 🔭 I’m currently looking for work as a **Full-Stack Developer**
+- 🔭 I’m currently looking for work as a **Web Developer**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
