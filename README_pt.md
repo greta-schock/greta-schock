@@ -18,7 +18,7 @@ Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes 
 
 - 🔭 Agora, estou procurando trabalho de **Desenvolvedor de Web**
 - 🌱 Agora, estou aprendendo **Typescript** e **Python**
-- 💬 Pergunte-me sobre **Desenvolvimento Web** && **Coding Bootcamps**
+- 💬 Pergunte-me sobre **desenvolvimento web**, **bootcamps de code** e **esqui**!
 - 🌎 Ex-intercambista de Rotary 🇺🇸 → 🇧🇷 2013/2014
 
 
