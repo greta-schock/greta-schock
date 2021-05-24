@@ -28,5 +28,5 @@ My name is **Greta Schock** and I'm currently working on passion projects while 
 [![Gmail Badge](https://img.shields.io/badge/-greta.schock@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greta.schock@gmail.com)](mailto:greta.schock@gmail.com)
 
 ---
-![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=grsc0529&show_icons=true&theme=vue&count_private=true)
+![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=greta-schock&show_icons=true&theme=vue&count_private=true)
 
