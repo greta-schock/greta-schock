@@ -1,8 +1,8 @@
 ## Whale, hello world! 🐳 
 
-![React](https://img.shields.io/badge/React-165+_Hours-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-500+_Hours-yellow)
-![CSS](https://img.shields.io/badge/CSS-60+_Hours-blueviolet)
+![React](https://img.shields.io/badge/React-161+_Hours-9cf)
+![JavaScript](https://img.shields.io/badge/JavaScript-505+_Hours-yellow)
+![CSS](https://img.shields.io/badge/CSS-61+_Hours-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-brightgreen)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
