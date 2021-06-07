@@ -1,14 +1,17 @@
 ## Whale, hello world! 🐳 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-510+_Hours-yellow)
 ![React](https://img.shields.io/badge/React-161+_Hours-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-505+_Hours-yellow)
-![CSS](https://img.shields.io/badge/CSS-61+_Hours-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
+![CSS](https://img.shields.io/badge/CSS-60+_Hours-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-brightgreen)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
-My name is **Greta Schock** and I'm currently working on passion projects while also considering other employment opportunities. I am a **Fullstack Developer** with an strong interest in the human-element of web development. Enthusiastic engineering professional with a Bachelor of Arts in International Affairs - Latin America/Anthropology and a Hack Reactor Software Engineering Immersive certification. 
+My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me playing in the outdoors!
+
+Please reach out if you have any questions or would like to connect!
 
 <table align="right">
  <tr><td><a href="README.md" target="_blank">🇺🇸 English</a></td></tr>
@@ -16,11 +19,13 @@ My name is **Greta Schock** and I'm currently working on passion projects while 
  <tr><td><a href="README_pt.md"target="_blank">🇧🇷 Português</a></td></tr>
 </table>
 
-- 🔭 I’m currently looking for work as a **Web Developer**
-- 🌱 I’m currently learning **Typescript** and **Python**
+- 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
+- 🔭 I’m currently looking for work as a **Web Developer** || **Software Enginner**
+- 🌱 I’m currently learning **Typescript** and **Mobile Development**
 - 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 - 😉  #unfor<strong>Greta</strong>ble
+
 
 ---
 ### Contact Me
