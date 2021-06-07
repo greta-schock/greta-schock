@@ -1,12 +1,12 @@
 ## ¡Hola Mundo! 🙃
 
-![JavaScript](https://img.shields.io/badge/JavaScript-510+_Hours-success)
-![React](https://img.shields.io/badge/React-161+_Hours-9cf)
-![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
-![CSS](https://img.shields.io/badge/CSS-60+_Hours-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
+![JavaScript](https://img.shields.io/badge/JavaScript-510+_Horas-success)
+![React](https://img.shields.io/badge/React-161+_Horas-9cf)
+![HTML](https://img.shields.io/badge/HTML-40+_Horas-red)
+![CSS](https://img.shields.io/badge/CSS-60+_Horas-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-20+_Horas-informational)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-green)
+![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
 
 ---
 Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el estado de Washington. Cuando no estoy trabajando en el desarrollo web, me gusta esquiar, caminar y andar en bicicleta.
