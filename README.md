@@ -1,11 +1,11 @@
 ## Whale, hello world! 🐳 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-510+_Hours-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-510+_Hours-success)
 ![React](https://img.shields.io/badge/React-161+_Hours-9cf)
 ![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
 ![CSS](https://img.shields.io/badge/CSS-60+_Hours-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
