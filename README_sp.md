@@ -1,14 +1,17 @@
 ## ¡Hola Mundo! 🙃
 
-![React](https://img.shields.io/badge/React-125+_Horas-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-500+_Horas-yellow)
-![CSS](https://img.shields.io/badge/CSS-50+_Horas-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-20+_Horas-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-brightgreen)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
+![JavaScript](https://img.shields.io/badge/JavaScript-510+_Hours-success)
+![React](https://img.shields.io/badge/React-161+_Hours-9cf)
+![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
+![CSS](https://img.shields.io/badge/CSS-60+_Hours-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-20+_Hours-informational)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
+![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
-Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tiempo que considero otras oportunidades de empleo. Soy un **Desarrollador Fullstack** con un gran interés en el elemento humano del desarrollo web. Entusiasta profesional de la ingeniería con una Licenciatura en Asuntos Internacionales - América Latina / Antropología y una certificación Hack Reactor Software Engineering Immersive.
+Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el estado de Washington. Cuando no estoy trabajando en el desarrollo web, me gusta esquiar, caminar y andar en bicicleta.
+
+¡Envíame un mensaje si tienes alguna pregunta o te gustaría conectarte!
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
@@ -16,8 +19,9 @@ Soy Greta Schock y ahora estoy trabajando en proyectos apasionantes al mismo tie
  <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
 </table>
 
-- 🔭 Ahora estoy buscando trabajo como **Desarrollador de Web**
-- 🌱 Ahora estoy aprendiendo **TypeScript** y **Python**
+- 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
+- 🔭 Ahora estoy buscando trabajo como **Ingeniera de Software**
+- 🌱 Ahora estoy aprendiendo **TypeScript** y **Desarrollo móvil**
 - 💬 Pregúntame sobre **desarrollo web**, **bootcamps de code** y **esquí**
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
