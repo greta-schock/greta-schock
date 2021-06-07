@@ -1,14 +1,17 @@
 ## Olá Mundo! 🙃
 
-![React](https://img.shields.io/badge/React-125+_Horas-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-500+_Horas-yellow)
-![CSS](https://img.shields.io/badge/CSS-50+_Horas-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-510+_Horas-success)
+![React](https://img.shields.io/badge/React-161+_Horas-9cf)
+![HTML](https://img.shields.io/badge/HTML-40+_Horas-red)
+![CSS](https://img.shields.io/badge/CSS-60+_Horas-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-20+_Horas-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
 
 ---
-Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes enquanto estou considerando outras oportunidades de emprego. Sou um **Fullstack Developer** com grande interesse no elemento humano do desenvolvimento web. Engenheiro entusiasta eu formei na falcudade de Relações Internacionais - América Latina / Antropologia e ganhei uma certificação Hack Reactor Imersiva em Engenharia de Software.
+Eu sou Greta Schock e sou uma **Engenheira de Software (Full-stack)** que mora no estado de Washington. Quando não estou trabalhando com desenvolvimento web, gosto de esquiar, caminhar e andar de bicicleta.
+
+Envie-me uma mensagem se você tiver alguma pergunta ou quiser se conectar!
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
@@ -16,8 +19,9 @@ Meu nome é **Greta Schock** e agora estou trabalhando em projetos apaixonantes 
  <tr><td><a href="README_pt.md">🇧🇷 Português</a></td></tr>
 </table>
 
-- 🔭 Agora, estou procurando trabalho de **Desenvolvedor de Web**
-- 🌱 Agora, estou aprendendo **Typescript** e **Python**
+- 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
+- 🔭 Agora, estou procurando trabalho de **Engenheira de Software**
+- 🌱 Agora, estou aprendendo **Typescript** e **Desenvolvimento móvel**
 - 💬 Pergunte-me sobre **desenvolvimento web**, **bootcamps de code** e **esqui**!
 - 🌎 Ex-intercambista de Rotary 🇺🇸 → 🇧🇷 2013/2014
 
