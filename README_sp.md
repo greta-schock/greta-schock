@@ -1,6 +1,6 @@
 ## ¡Hola Mundo! 🙃
 
-![JavaScript](https://img.shields.io/badge/JavaScript-511+_Horas-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-512+_Horas-success)
 ![React](https://img.shields.io/badge/React-161+_Horas-9cf)
 ![HTML](https://img.shields.io/badge/HTML-40+_Horas-red)
 ![CSS](https://img.shields.io/badge/CSS-60+_Horas-blueviolet)
