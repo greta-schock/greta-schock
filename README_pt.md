@@ -1,9 +1,9 @@
 ## Olá Mundo! 🙃
 
-![JavaScript](https://img.shields.io/badge/JavaScript-520+_Horas-success)
-![React](https://img.shields.io/badge/React-161+_Horas-9cf)
+![JavaScript](https://img.shields.io/badge/JavaScript-525+_Horas-success)
+![React](https://img.shields.io/badge/React-165+_Horas-9cf)
 ![HTML](https://img.shields.io/badge/HTML-40+_Horas-red)
-![CSS](https://img.shields.io/badge/CSS-60+_Horas-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-65+_Horas-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-30+_Horas-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10+_Horas-green)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Horas-important)
