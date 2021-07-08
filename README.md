@@ -1,6 +1,6 @@
 ## Whale, hello world! 🐳 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-520+_Hours-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-525+_Hours-success)
 ![React](https://img.shields.io/badge/React-165+_Hours-9cf)
 ![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
 ![CSS](https://img.shields.io/badge/CSS-65+_Hours-blueviolet)
