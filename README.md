@@ -20,7 +20,6 @@ Please reach out if you have any questions or would like to connect!
 </table>
 
 - 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
-- 🔭 I’m currently looking for work as a **Web Developer** || **Software Engineer**
 - 🌱 I’m currently learning **Typescript** and **Mobile Development**
 - 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
