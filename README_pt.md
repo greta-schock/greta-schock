@@ -20,7 +20,6 @@ Envie-me uma mensagem se você tiver alguma pergunta ou quiser se conectar!
 </table>
 
 - 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
-- 🔭 Agora, estou procurando trabalho de **Engenheira de Software**
 - 🌱 Agora, estou aprendendo **Typescript** e **Desenvolvimento móvel**
 - 💬 Pergunte-me sobre **desenvolvimento web**, **bootcamps de code** e **esqui**!
 - 🌎 Ex-intercambista de Rotary 🇺🇸 → 🇧🇷 2013/2014
