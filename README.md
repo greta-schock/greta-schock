@@ -1,12 +1,12 @@
 ## Whale, hello world! 🐳 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-525+_Hours-success)
-![React](https://img.shields.io/badge/React-165+_Hours-9cf)
-![HTML](https://img.shields.io/badge/HTML-40+_Hours-red)
-![CSS](https://img.shields.io/badge/CSS-65+_Hours-blueviolet)
-![SQL](https://img.shields.io/badge/SQL-30+_Hours-informational)
-![MongoDB](https://img.shields.io/badge/MongoDB-10+_Hours-green)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
+![JavaScript](https://img.shields.io/badge/JavaScript_-success)
+![React](https://img.shields.io/badge/React_-9cf)
+![HTML](https://img.shields.io/badge/HTML_-red)
+![CSS](https://img.shields.io/badge/CSS_-blueviolet)
+![SQL](https://img.shields.io/badge/SQL_-informational)
+![MongoDB](https://img.shields.io/badge/NoSQL_-green)
+![REST APIs](https://img.shields.io/badge/REST_APIs_-important)
 
 ---
 My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me playing in the outdoors!
