@@ -1,12 +1,50 @@
 ## Whale, hello world! 🐳 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript_-success)
-![React](https://img.shields.io/badge/React_-9cf)
-![HTML](https://img.shields.io/badge/HTML_-red)
+![React](https://img.shields.io/badge/React_-success)
+![Redux](https://img.shields.io/badge/Redux_-success)
+![TypeScript](https://img.shields.io/badge/TypeScript_-success)
+
+![HTML](https://img.shields.io/badge/HTMLblueviolet)
 ![CSS](https://img.shields.io/badge/CSS_-blueviolet)
-![SQL](https://img.shields.io/badge/SQL_-informational)
-![MongoDB](https://img.shields.io/badge/NoSQL_-green)
-![REST APIs](https://img.shields.io/badge/REST_APIs_-important)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_-blueviolet)
+![Material_UI](https://img.shields.io/badge/Material_UI-blueviolet)
+![SASS](https://img.shields.io/badge/SASS_-blueviolet)
+
+![Node](https://img.shields.io/badge/Node_-9cf)
+![Express](https://img.shields.io/badge/Express_-9cf)
+![REST API](https://img.shields.io/badge/REST_APIs_-9cf)
+![CRUD](https://img.shields.io/badge/CRUD_-9cf)
+![Postman](https://img.shields.io/badge/Postman_-9cf)
+
+![JSON](https://img.shields.io/badge/JSON_-red)
+![npm](https://img.shields.io/badge/npm_-red)
+![Webpack](https://img.shields.io/badge/Webpack_-red)
+![Babel](https://img.shields.io/badge/Babel_-red)
+
+![Git](https://img.shields.io/badge/Git_-informational)
+![GitHub](https://img.shields.io/badge/GitHub_-informational)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_-informational)
+
+![AWS](https://img.shields.io/badge/AWS_-important)
+![Terraform](https://img.shields.io/badge/Terraform_-important)
+![Docker](https://img.shields.io/badge/Docker_-important)
+![CircleCI](https://img.shields.io/badge/CircleCI_-important)
+![Heroku](https://img.shields.io/badge/Heroku_-important)
+
+![SQL](https://img.shields.io/badge/SQL_-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_-green)
+![MySQL](https://img.shields.io/badge/MySQL_-green)
+![NoSQL](https://img.shields.io/badge/NoSQL_-green)
+![MongoDB](https://img.shields.io/badge/MongoDB_-green)
+
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-red)
+![Enzyme](https://img.shields.io/badge/Enzyme-red)
+![Jest](https://img.shields.io/badge/Jest_-red)
+![Mocha](https://img.shields.io/badge/Mocha_-red)
+![Chai](https://img.shields.io/badge/Chai_-red)
+![K6](https://img.shields.io/badge/K6_-red)
+![Loader.io](https://img.shields.io/badge/Loader.io-red)
 
 ---
 My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me in the outdoors!
