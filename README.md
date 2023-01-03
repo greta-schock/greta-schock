@@ -70,4 +70,7 @@ Please reach out if you have any questions or would like to connect!
 --- 
 
 ![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=greta-schock&show_icons=true&theme=vue&count_private=true)
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greta-schock" alt="Greta Schock's LangStat" />
+</div>
 
