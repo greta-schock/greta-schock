@@ -5,7 +5,7 @@
 ![Redux](https://img.shields.io/badge/Redux_-success)
 ![TypeScript](https://img.shields.io/badge/TypeScript_-success)
 
-![HTML](https://img.shields.io/badge/HTMLblueviolet)
+![HTML](https://img.shields.io/badge/HTML_-blueviolet)
 ![CSS](https://img.shields.io/badge/CSS_-blueviolet)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_-blueviolet)
 ![Material_UI](https://img.shields.io/badge/Material_UI-blueviolet)
