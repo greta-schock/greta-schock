@@ -12,6 +12,7 @@ Please reach out if you have any questions or would like to connect!
  <tr><td><a href="README_pt.md"target="_blank">🇧🇷 Português</a></td></tr>
 </table>
 
+- 😄 Pronouns: She/Her   
 - 🍊 Full Stack Developer at [Avanade](https://www.avanade.com/en) 
 - 🌐 [gretaschock.com](http://www.gretaschock.com/)
 - 💬 Ask me about **web development 👩‍💻, coding bootcamps 💻, skiing ⛷️, and quality puns ✨**
