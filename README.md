@@ -19,8 +19,8 @@ Please reach out if you have any questions or would like to connect!
  <tr><td><a href="README_pt.md"target="_blank">🇧🇷 Português</a></td></tr>
 </table>
 
+- 🍊 Employee at [Avanade](https://www.avanade.com/en) 
 - 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
-- 🌱 I’m currently learning **Typescript** and **Mobile Development**
 - 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 - 😉  #unfor<strong>Greta</strong>ble
