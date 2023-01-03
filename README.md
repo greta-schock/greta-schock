@@ -1,5 +1,8 @@
 ## Whale, hello world! 🐳
+[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
+
 My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me in the outdoors!
+
 
 Please reach out if you have any questions or would like to connect!
 
@@ -14,13 +17,6 @@ Please reach out if you have any questions or would like to connect!
 - 💬 Ask me about **web development 👩‍💻, coding bootcamps 💻, skiing ⛷️, and quality puns ✨**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 - 😉 #unfor<strong>GRETA</strong>ble
-
----
-
-### Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
-
----
 
 ### Tech Stack
 #### Frontend
