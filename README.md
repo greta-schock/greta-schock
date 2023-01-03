@@ -1,10 +1,10 @@
 ## Whale, hello world! 🐳
-[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)
+
 
 My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me in the outdoors!
 
 
-Please reach out if you have any questions or would like to connect!
+[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/) Please reach out if you have any questions or would like to connect!
 
 <table align="right">
  <tr><td><a href="README.md" target="_blank">🇺🇸 English</a></td></tr>
