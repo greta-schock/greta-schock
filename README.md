@@ -9,7 +9,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs_-important)
 
 ---
-My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me playing in the outdoors!
+My name is Greta Schock and I am a **Full-Stack Software Engineer** living in the PNW. When I'm not coding, you can find me in the outdoors!
 
 Please reach out if you have any questions or would like to connect!
 
@@ -21,9 +21,9 @@ Please reach out if you have any questions or would like to connect!
 
 - 🍊 Full Stack Developer at [Avanade](https://www.avanade.com/en) 
 - 🌐 [www.gretaschock.com](http://www.gretaschock.com/)
-- 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
+- 💬 Ask me about **web development 👩‍💻, coding bootcamps 💻, skiing ⛷️, and quality puns ✨**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
-- 😉  #unfor<strong>Greta</strong>ble
+- 😉 #unfor<strong>GRETA</strong>ble
 
 
 ---
