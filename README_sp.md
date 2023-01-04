@@ -32,16 +32,16 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 ![REST API](https://img.shields.io/badge/REST_APIs_-9cf)
 ![CRUD](https://img.shields.io/badge/CRUD_-9cf)
 ![Postman](https://img.shields.io/badge/Postman_-9cf)
-#### Data Interchange
+#### Intercambio de Datos
 ![JSON](https://img.shields.io/badge/JSON_-ff69b4)
 ![npm](https://img.shields.io/badge/npm_-ff69b4)
 ![Webpack](https://img.shields.io/badge/Webpack_-ff69b4)
 ![Babel](https://img.shields.io/badge/Babel_-ff69b4)
-#### Version Control 
+#### Intercambio de Datos 
 ![Git](https://img.shields.io/badge/Git_-informational)
 ![GitHub](https://img.shields.io/badge/GitHub_-informational)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_-informational)
-#### Infrastructure
+#### Infraestructura
 ![AWS](https://img.shields.io/badge/AWS_-important)
 ![Terraform](https://img.shields.io/badge/Terraform_-important)
 ![Docker](https://img.shields.io/badge/Docker_-important)
@@ -53,7 +53,7 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 ![MySQL](https://img.shields.io/badge/MySQL_-green)
 ![NoSQL](https://img.shields.io/badge/NoSQL_-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB_-green)
-#### Testing
+#### Pruebas 
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-lightgrey)
 ![Enzyme](https://img.shields.io/badge/Enzyme-lightgrey)
 ![Jest](https://img.shields.io/badge/Jest_-lightgrey)
