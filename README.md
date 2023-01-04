@@ -15,7 +15,6 @@ My name is Greta Schock and I am a **Full-Stack Software Engineer** living in th
 - 😄 Pronouns: She/Her   
 - 🍊 Full Stack Developer at [Avanade](https://www.avanade.com/en) 
 - 🌐 [gretaschock.com](http://www.gretaschock.com/)
-- 💬 Ask me about **web development 👩‍💻, coding bootcamps 💻, skiing ⛷️, and quality puns ✨**
 - 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
 - 😉 #unfor<strong>GRETA</strong>ble
 
