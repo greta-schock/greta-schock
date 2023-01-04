@@ -14,19 +14,19 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 - 🌐 [gretaschock.com](http://www.gretaschock.com/)
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
-### Tech Stack
+### Oferta Tecnológica
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript_-success) 
 ![React](https://img.shields.io/badge/React_-success)
 ![Redux](https://img.shields.io/badge/Redux_-success)
 ![TypeScript](https://img.shields.io/badge/TypeScript_-success)
-#### Stylization
+#### Estilización
 ![HTML](https://img.shields.io/badge/HTML_-blueviolet)
 ![CSS](https://img.shields.io/badge/CSS_-blueviolet)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_-blueviolet)
 ![Material_UI](https://img.shields.io/badge/Material_UI-blueviolet)
 ![SASS](https://img.shields.io/badge/SASS_-blueviolet)
-#### Server Management
+#### Administración de Servers 
 ![Node](https://img.shields.io/badge/Node_-9cf)
 ![Express](https://img.shields.io/badge/Express_-9cf)
 ![REST API](https://img.shields.io/badge/REST_APIs_-9cf)
