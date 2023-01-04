@@ -11,6 +11,7 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 </table>
 
 - 😄 Mis pronombres son: ella
+- 🍊 Full Stack Developer por [Avanade](https://www.avanade.com/en) 
 - 🌐 [gretaschock.com](http://www.gretaschock.com/)
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
