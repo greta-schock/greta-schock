@@ -12,8 +12,6 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 
 - 😄 Mis pronombres son: ella
 - 🌐 [gretaschock.com](http://www.gretaschock.com/)
-- 🌱 Ahora estoy aprendiendo **TypeScript** y **Desarrollo móvil**
-- 💬 Pregúntame sobre **desarrollo web**, **bootcamps de code** y **esquí**
 - 🌎 Ex estudiante de intercambio 🇺🇸 → 🇧🇷 2013/2014
 
 ### Tech Stack
