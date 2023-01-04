@@ -26,18 +26,18 @@ Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_-blueviolet)
 ![Material_UI](https://img.shields.io/badge/Material_UI-blueviolet)
 ![SASS](https://img.shields.io/badge/SASS_-blueviolet)
-#### Administración de Servers 
+#### Administración de servers 
 ![Node](https://img.shields.io/badge/Node_-9cf)
 ![Express](https://img.shields.io/badge/Express_-9cf)
 ![REST API](https://img.shields.io/badge/REST_APIs_-9cf)
 ![CRUD](https://img.shields.io/badge/CRUD_-9cf)
 ![Postman](https://img.shields.io/badge/Postman_-9cf)
-#### Intercambio de Datos
+#### Intercambio de datos
 ![JSON](https://img.shields.io/badge/JSON_-ff69b4)
 ![npm](https://img.shields.io/badge/npm_-ff69b4)
 ![Webpack](https://img.shields.io/badge/Webpack_-ff69b4)
 ![Babel](https://img.shields.io/badge/Babel_-ff69b4)
-#### Intercambio de Datos 
+#### Control de versiones 
 ![Git](https://img.shields.io/badge/Git_-informational)
 ![GitHub](https://img.shields.io/badge/GitHub_-informational)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_-informational)
