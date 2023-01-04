@@ -2,7 +2,7 @@
 ---
 Soy Greta Schock y soy una **Ingeniera de Software (Full-Stack)** que vive en el estado de Washington. Cuando no estoy trabajando en el desarrollo web, me gusta esquiar, caminar y andar en bicicleta.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/)¡Envíame un mensaje si tienes alguna pregunta o te gustaría conectarme! 
+[![Linkedin Badge](https://img.shields.io/badge/-Greta_Schock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greta-schock/)](https://www.linkedin.com/in/greta-schock/) ¡Envíame un mensaje si tienes alguna pregunta o te gustaría conectarme! 
 
 <table align="right">
  <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
